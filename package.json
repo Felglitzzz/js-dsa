@@ -1,0 +1,19 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the data structures and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felglitzzz/js-dsa.git"
+  },
+  "author": "Felix Amande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felglitzzz/js-dsa/issues"
+  },
+  "homepage": "https://github.com/Felglitzzz/js-dsa#readme"
+}
