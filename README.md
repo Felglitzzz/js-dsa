@@ -1,6 +1,8 @@
 # js-dsa
 JavaScript implementation of the data structures and algorithms
 
+## Big O Notation
+Click [here](./big-o/README.md)
 ## Data structures
 
 1. [Arrays](./data-structures/arrays/README.md)
