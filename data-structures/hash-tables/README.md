@@ -5,7 +5,7 @@ Also known as hash maps, maps, dictionaries, objects.
 Allows you to set/map a key to its value
 
 ## Real life examples
- -
+ ![A small phone book as a hash table]('./../../../assets/hash-table.png)
 
 ## Operations
 
