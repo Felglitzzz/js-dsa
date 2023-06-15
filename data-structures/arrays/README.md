@@ -1,9 +1,8 @@
 # Arrays
 
-A linear data structure used to store elements at a contiguous location or indexes or in sequential order
+A linear data structure used to store elements at a contiguous location or indexes or in sequential order. They are right next to each other compared to a LinkedList that is scattered all over memory
 
-Array in Js can be static or d
-
+Array in Js can be static or dynamic
 
 ## Real life examples
 
