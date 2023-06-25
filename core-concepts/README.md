@@ -46,9 +46,13 @@ Unused memory fills up memory heap, that is what memory leak means
 *NB For Browser: Between tasks, the browser may render updates*
 
 **setTimeout** is handles in JS runtime environment as Web API, and in libuv in node
+
 Wait for the delay and schedules a task in the callback queue
 
-**Microtasks/Jobs** implement deferred execution for async/await, promises
+**Microtasks/Jobs**
+
+implement deferred execution for async/await, promises
+
 calling `.then` against a settled promise queues a microtask for its callback
 
 **Microtasks** happens before the next tasks
