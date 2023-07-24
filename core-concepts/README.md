@@ -58,7 +58,10 @@ calling `.then` against a settled promise queues a microtask for its callback
 **Microtasks** happens before the next tasks
 
 ## Closures
+ Combination of a function with references to its surrounding states or lexical environment. In other words, closures gives an inner function access to its outer function's scope. They are created everytime a function is created.
  
+ What i love about closures is that it helps [emulate private methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#emulating_private_methods_with_closures)
+
  ### Lexical scope
  Ability of a function scope to access variables from parent scope. 
 
@@ -74,4 +77,3 @@ calling `.then` against a settled promise queues a microtask for its callback
  ### Let and Const Scoping
  creates block scope
 
- git change-commits GIT_AUTHOR_EMAIL "felix.amande@nn-group.com" "amandeolaoluwa@gmail.com"
